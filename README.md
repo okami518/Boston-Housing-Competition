@@ -38,7 +38,3 @@ ensemble configuration based on RMSE.
 - pandas
 - scikit-learn
 - xgboost
-
-## Notes
-- This is a regression problem (Logistic Regression is not used)
-- Validation is performed to avoid overfitting before submission

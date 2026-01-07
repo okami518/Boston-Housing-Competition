@@ -32,3 +32,13 @@ ensemble configuration based on RMSE.
 
 ## Output
 - The final prediction file is exported as a CSV file in the format required by Kaggle:
+
+## Libraries Used
+- Python
+- pandas
+- scikit-learn
+- xgboost
+
+## Notes
+- This is a regression problem (Logistic Regression is not used)
+- Validation is performed to avoid overfitting before submission
